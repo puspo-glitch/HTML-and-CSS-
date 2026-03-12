@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.top-heading{
+    color: rgb(230, 104, 104);
+    text-transform: capitalize;
+    text-align: center;
+    background-color: burlywood;
+    padding: 15px;
+    margin: 50px;
+}
+
+.bottom-heading{
+    color: rgb(236, 235, 218);
+    text-transform: capitalize;
+    text-align: center;
+    background-color: rgb(91, 170, 140);
+    padding: 15px;
+    margin: 50px;
+}
+
+.test-heading{
+    color: rgb(181, 191, 245);
+    text-transform: capitalize;
+    text-align: center;
+    background-color: rgb(177, 132, 74);
+    padding: 15px;
+    margin: 50px;
+}
+.last-heading{
+    color: rgb(196, 233, 127);
+    text-transform: capitalize;
+    text-align: center;
+    background-color: rgb(231, 122, 155);
+    padding: 15px;
+    margin: 50px;
+}
